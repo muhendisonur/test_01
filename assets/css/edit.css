@@ -1,0 +1,14 @@
+.playwrite-au-sa-featured-title {
+  font-family: "Playwrite AU SA", serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: oblique 1.5deg;
+  font-size: 3rem;
+  line-height: 1;
+  text-align:center;
+}
+
+.featured-box{
+  width: 100%;
+  margin-top: 1em;
+}
